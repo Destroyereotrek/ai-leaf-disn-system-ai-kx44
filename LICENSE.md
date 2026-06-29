@@ -1,4 +1,4 @@
-# 
+# Código aberto AI leaf disease detection system predefinições. Com aprendizado por transferência e ética de IA — otimizado para máximo desempenho.
 
 
 
